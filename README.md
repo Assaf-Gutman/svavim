@@ -53,10 +53,11 @@ with what group assign to what option
 notice that it might be issue with hebrew, so better write names in english
 
 # Excel Format 
-1. group leader name
-2. number of group members
-
-3-10. the options that u pick, when line column 3 is the most desire option and column 10 is the less desire 
+1. how many members in the group
+2. first member's name 
+3. second member's name 
+4. third member's name
+5-10. the options that u pick, when line column 3 is the most desire option and column 10 is the less desire 
 
 
 
