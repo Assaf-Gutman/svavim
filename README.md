@@ -53,6 +53,7 @@ with what group assign to what option
 notice that it might be issue with hebrew, so better write names in english
 
 # Excel Format 
+the script will work only if the excel input file will be in that format 
 1. how many members in the group
 2. first member's name 
 3. second member's name 
