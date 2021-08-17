@@ -155,4 +155,5 @@ def extract_string(a_string):
     return numbers[0]
 
 def filter_empty(tup):
-    return list(filter(lambda x: x != '', tup))
+    new_list  =  list(filter(lambda x: x != '', tup))
+    return list(map(lambda x: str(x) ,new_list ))
